@@ -1,0 +1,2 @@
+# EPID582-Winter-2025
+Labs for EPID and MICROBIOL 582 Winter 2025
